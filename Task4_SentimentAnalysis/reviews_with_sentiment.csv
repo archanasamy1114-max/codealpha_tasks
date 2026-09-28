@@ -1,0 +1,21 @@
+review,Sentiment,Sentiment_Score
+The product is excellent and works perfectly.,Positive,0.836
+I am very happy with this purchase.,Positive,0.6115
+Amazing quality and very useful product.,Positive,0.7902
+The product exceeded my expectations.,Neutral,0.0
+Very good product and fast delivery.,Positive,0.4927
+I really love this product.,Positive,0.6697
+The quality is great and worth the money.,Positive,0.7184
+"Excellent product, I would recommend it.",Positive,0.7351
+The product is okay.,Positive,0.2263
+It is an average product.,Neutral,0.0
+The product is neither good nor bad.,Negative,-0.5824
+It works as expected.,Neutral,0.0
+The quality is poor.,Negative,-0.4767
+I am disappointed with this product.,Negative,-0.4767
+The product stopped working after a few days.,Negative,-0.2263
+Very bad quality.,Negative,-0.5849
+I regret buying this product.,Negative,-0.4215
+The product is not worth the money.,Negative,-0.1695
+The delivery was late and the product was damaged.,Negative,-0.4404
+I did not like this product.,Negative,-0.2755
